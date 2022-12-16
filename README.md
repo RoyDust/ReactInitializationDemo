@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+React项目初始化：
+包含redux，routes，简单axios封装，webpack，less
+
 ## Available Scripts
 
 In the project directory, you can run:
